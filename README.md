@@ -338,6 +338,5 @@ Use the [Wizard plugin](https://formvalidation.io/guide/plugins/wizard) to valid
 This project is developed by _Nguyen Huu Phuoc_. I love building products and sharing knowledge.
 
 Be my friend on
-* [Twitter](https://twitter.com/nghuuphuoc)
-* [dev.to](https://dev.to/phuocng)
-* [Github](https://github.com/phuoc-ng)
+* [Twitter](https://twitter.com/elmergustavo79)
+* [Github](https://github.com/elmergustavo)
